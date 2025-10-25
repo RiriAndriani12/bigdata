@@ -1,1 +1,2 @@
 Model/*.pt filter=lfs diff=lfs merge=lfs -text
+Model/Riri[[:space:]]Andrian_Laporan_2.36 filter=lfs diff=lfs merge=lfs -text
